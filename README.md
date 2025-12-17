@@ -25,13 +25,13 @@ https://notredame.zoom.us/rec/share/FcWBr_sutTThYfxb5h_CEDQhruVxT1lMvX8bEp92bOX0
 
 **Finalized PRD**
 
-Overview & Goal
+Overview & Goal-
 The goal is for the AI to give you recommendations, also as a downloadable PDF, on the best way possible to maximize the school resources in order to integrate Education technology in Christ-centered schools in Latin America, based on which country’s national curricula the school is based.
 
-Core Feature (Implemented)
+Core Feature (Implemented)-
 The AI is working great, however, I will need people related to Edify (my capstone, and the people I am building this to) to check this prototype and see what else I need to add for the AI to do and what features should we add also.
 
-AI Specification
+AI Specification-
 The AI takes in:
 
 The user’s learning objectives
